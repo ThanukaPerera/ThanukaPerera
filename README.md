@@ -1,96 +1,75 @@
-# 👋 Hello, I'm Thanuka!
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Kithmin](https://www.kithminrw.com/)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Passionate+IT+Undergraduate;Enthusiast+in+Embedded+Systems+%26+Web+Dev;Problem+Solver+%7C+Former+Ruggerite" alt="Typing SVG" />
-</div>
+I have a Master's (MASc) in Electrical and Computer Engineering (ECE) from The University of British Columbia. I studied Biomedical Engineering as an undergrad. I like to work on interesting projects in ASIC Design, Silicon Photonics, Electronics, Robotics, Wearables, and Machine Learning Tools for Hardware Design Automation.
 
----
-
-## 🚀 About Me
-
-**🎓 Currently Studying**  
-BSc (Hons) in Information Technology at the University of Moratuwa  
-
-**🛠 Interests**  
-IoT & Embedded Systems • Full Stack Web Dev • Human-centered Design • System Integration
-
-**🤝 Looking to Collaborate On**  
-Creative tech projects • Social impact apps • React, MongoDB, and Arduino based builds
-
-**💪 Fun Facts**  
-- I designed and built a working mocktail machine from scratch  
-- I'm a former rugby player with strong team spirit and strategic thinking  
-- I build things that blend software with hardware — from idea to implementation  
+- 🔭 I designed sensors on Silicon Photonic Chips and Microfluidic Control Systems in my MASC [[Thesis]](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0445597) [[SPIE Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13312/133120K/Towards-on-chip-integration-of-a-silicon-photonic-microfluidic-thermal/10.1117/12.3040917.short)
+- 📫 Reach me: kithminrw@gmail.com
+- 👯 Let’s collaborate on Machine Learning, Biomedical Engineering, PIC/ASIC Hardware Automation. I've contributed to [gdsfactory](https://gdsfactory.github.io/gdsfactory/) and [SiEPIC](https://github.com/SiEPIC)
+- ⚡ Fun fact: I love open-source hardware and DIY projects!
 
 ---
 
-## 🌐 Connect with Me
+### 🔧 Languages & Tools:
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thanukaperera)  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanukaperera07@gmail.com)
-
-</div>
-
----
-
-## 🛠️ My Tech Toolbox
-
-### **Languages & Frameworks**
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-### **Web & App Development**
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</div>
-
-### **Hardware & Embedded Systems**
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ATtiny85](https://img.shields.io/badge/ATtiny85-FF6F00?style=for-the-badge)
-
-</div>
-
-### **Tools & Platforms**
-<div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+[<img alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
+[<img alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" />]()
+[<img alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" />]()
+[<img alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />]()
+[<img alt="ROS" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />]()
+[<img alt="Matlab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />]()
+[<img alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />]()
+[<img alt="KiCAD" width="26px" src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" />]()
+[<img alt="Altium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" />]()
+[<img alt="COMSOL" width="26px" src="https://play-lh.googleusercontent.com/gdPzb-Oss6wI0v5P9HY5N15eb-nroNCiRnPXrtjvV2zoz4Q0Buw67e_RYkF0CsYvMx7F" />]()
+[<img alt="Lumerical" width="30px" src="https://pbs.twimg.com/profile_images/1258494918634291200/tgR7gdWK_400x400.jpg" />]()
+[<img alt="KLayout" width="30px" src="https://avatars.githubusercontent.com/u/46386928?s=200&v=4" />]()
+[<img alt="OnShape" width="30px" src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" />]()
+[<img alt="Cadence" width="30px" src="https://companieslogo.com/img/orig/CDNS-20a21ff7.png?t=1652258778" />]()
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 Projects & Work
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanukaPerera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanukaPerera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9"/>
-</div>
+#### 🧠 [ml-nn-zero2hero](https://www.kithminrw.com/ml-nn-zero2hero/)
+- Deep-dive notes on ML/NLP/GenAI, hosted with Jupyter Book [[repo](https://github.com/kithminrw/ml-nn-zero2hero)]
+- Working on Biosignal Synthesis using Generative Models
+- ML/AI tools for EPDA (e.g., RALF, ControlNet-inspired tools)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanukaPerera&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
-</div>
+#### 🔬 [open-source-asic-chip-design](https://github.com/SkillSurf)
+- CMOS ADC Design [[project](https://github.com/SkillSurf/8b-sar-adc-unic_cass)] [[tapeout](https://repositories.efabless.com/kithminrw/IC2-CASS-2024)]
+- Digital Design with OpenROAD [[tutorial](https://github.com/SkillSurf/systemverilog/tree/master/osic_flow)]
+- RF IC + Tiny PLL tapeout with IHP SG13G2 [[notes](https://github.com/VolkerMuehlhaus/openems_ihp_sg13g2)]
+
+#### 🧬 BraiNeoCare
+- Low-cost EEG system for neonatal epilepsy screening [[repo](https://github.com/Dinuka-1999/BraiNeoCare)]
+- Papers: [IEEE SMC](https://ieeexplore.ieee.org/abstract/document/10831030), [TBME](https://arxiv.org/abs/2503.23338)
+
+#### 👂 EarEEG-BASIC
+- CMOS Biomedical ASIC for impedance measurement + motion artifact cancellation
+
+#### ❤️ IntelliScope
+- AI-powered stethoscope for heart disease screening [[repo](https://github.com/intelliscope-ai)]
+- [ISCAS Paper](https://ieeexplore.ieee.org/document/9401093) | [Presentation](https://drive.google.com/file/d/1RztRsTyAFzcmgW8hmfYzrs6aW5AQ1shj/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=bDfqPbMdl5g)
+
+#### 🐁 Micromouse
+- Open-source knowledge base for Micromouse robots [[repo](https://github.com/sanjith1999/SINDiB-MicroMouse)]
+- [My Talk (2022)](https://docs.google.com/presentation/d/1EzACgUfxd5gQGBXqCMkfpz_SdqEy7rfr)
 
 ---
 
-<div align="center">
-  <sub>Built with 💙 and driven by curiosity ⚙️</sub>
-</div>
+### 🛠️ Workshops
+- [Embedded Systems](https://slinspire.lk/events/embedded-workshop/) | [YouTube](https://www.youtube.com/playlist?list=PLTW6nNce5t3IieOTPeGCx0hxbSSmbx5Vh)
+- [ROS](https://ent.uom.lk/2023/03/06/slrc-22-advanced-robotics-workshop-a-journey-into-the-realm-of-ros/) | [YouTube](https://www.youtube.com/playlist?list=PLycNPeCNJhVeX9AhiOXh-B5Pe4zxsPE2r)
+- [Quantum Computing](https://ent.uom.lk/2023/04/02/workshop-on-quantum-computing/) | [Repo](https://github.com/SkillSurf/introduction_qc)
+- [Generative AI](https://skillsurf.github.io/introduction_genAI/intro.html)
+- [The Art of Analog IC Design](https://skillsurf.github.io/art_of_aicd/)
+
+---
+
+### 📌 Other Initiatives
+
+- **sEMG Sensor for Bionic Arms**: [repo](https://github.com/Laknath1996/sEMG-Hand-Gesture-Recognition) | [ICASSP](https://ieeexplore.ieee.org/document/9054227) | [SMC](https://ieeexplore.ieee.org/document/9283285)
+- **Bionic Humanoid Arm**: [repo](https://github.com/kithminrw/EMG_RPi_BionicHand)
+- **Plant Disease Detection**: [repo](https://github.com/kahnchana/Plant_Disease_Recognition)
+
+---
