@@ -7,7 +7,7 @@ I believe in building solutions that matter — from **wearable healthcare** to 
 
 - 🔭 Currently working on: Smart biomedical wearables & IoT prototypes  
 - 💬 Ask me about: React, MongoDB, Embedded Projects, and System Design  
-- 📫 Reach me at: thanukaperera.dev@gmail.com  
+- 📫 Reach me at: thanukalap@gmail.com  
 - ⚡ Fun fact: I love hiking, gym, and building things from scratch!
 
 ---
