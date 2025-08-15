@@ -28,36 +28,14 @@ I believe in building solutions that matter — from **wearable healthcare** to 
 
 ---
 
-### 🚀 Projects & Work
+### 📊 GitHub Stats
 
-#### 🩺 MediVault – Centralized Medical History Platform  
-> A secure, role-based platform where patients can store and access their medical history.  
-> Roles include doctors, nurses, pharmacists, and lab assistants.  
-[View in Figma](#) | [Stack: MERN + Auth + Email]
-
-#### 📦 Parcel Management System  
-> Streamlines parcel and shipment management for lodging and collection centers.  
-> Includes barcode sticker generation, manifest handling, and email notifications.  
-[GitHub](#) | [Stack: Node.js + MongoDB + QR Scanner + Print Integration]
-
-#### 🥤 Smart Mocktail Machine  
-> A fully functional drink machine with touch display, pumps, relays, and 3D-designed enclosures.  
-> Built from scratch including T-joint pipeline mechanisms and 4-channel relay logic.
-
-#### 🚗 Line-Following Robot  
-> Designed and tuned a speed-optimized line-following robot with IR array error detection and correction.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machinelearningzuu&count_private=true&show_icons=true&theme=vision-friendly-dark)  
+![GitHub Streak](https://streak-stats.demolab.com?user=machinelearningzuu&theme=dark&background=000000&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machinelearningzuu&layout=compact&theme=vision-friendly-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=machinelearningzuu&theme=react-dark&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=true)
 
 ---
-
-### 📌 Mini Projects & Hackathons
-
-- **Biomedical Wearable (Sweat-based Sensing)** – Non-invasive wristband to monitor glucose/electrolytes  
-- **Communication Platform for University Students** – Ballerina API integration  
-- **Arduino + IR Receiver Setup** – AX-1838HS with ATtiny85/Uno programming  
-- **Responsive Portfolio Website** – [Check it here](#)
-
----
-
 ### 🛠️ Skills & Strengths
 
 - **Web Dev:** React, Node.js, MongoDB, RESTful APIs  
@@ -65,15 +43,6 @@ I believe in building solutions that matter — from **wearable healthcare** to 
 - **Soft Skills:** Teamwork, Problem Solving, Presentation  
 - **Design:** Figma, 3D Design, User Interface Workflows  
 - **Deployment:** Vercel, Firebase, GitHub Pages
-
----
-
-### 🏉 Beyond Tech
-
-- 🧠 Critical thinker and problem solver  
-- 🏋️ Gym-goer and hiker  
-- 🏉 Rugby player (SLUG 2023 – University of Moratuwa)  
-- 🤝 Strong team player with leadership spirit
 
 ---
 
