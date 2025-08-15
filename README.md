@@ -1,5 +1,8 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Thanuka Perera
 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=I'm+Thanuka+Perera)
+
 🎓 I'm an undergraduate at the University of Moratuwa, following a BSc (Hons) in Information Technology.  
 💻 I'm passionate about **web development**, **embedded systems**, and **IoT**, with a strong interest in **innovative problem-solving** and real-world applications.
 
