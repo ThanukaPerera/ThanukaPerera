@@ -1,11 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Thanuka Perera</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=I'm+Thanuka+Perera)
+<h1 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=I'm+Thanuka+Perera)</h1>
+
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanukaperera&label=Profile%20views&color=0e75b6&style=flat" alt="thanukaperera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanukaperera" alt="thanukaperera" /></a> </p>
 
 - 🎓 I'm an undergraduate at the *University of Moratuwa*
 
