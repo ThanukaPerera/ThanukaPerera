@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Thanuka Perera</h1>
 
+
 <h1 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=I'm+Thanuka+Perera)</h1>
 
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
